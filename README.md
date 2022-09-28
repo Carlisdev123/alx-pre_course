@@ -1,1 +1,1 @@
-My first readme
+it wasnt easy getting here.
